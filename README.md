@@ -87,16 +87,5 @@
     </div>
     <!-- canvas -->
 
-    
-    <p class="controls">
-      <a href="#canvas">Show</a> / <a href="#">Hide</a> Element Borders.
-    </p>
-
-    <script
-        type="text/javascript"
-        src="../../../platform.twitter.com/widgets.js"
-      ></script>
-    </p>
-    
   </body>
 </html>
